@@ -23,10 +23,10 @@
 ---
 
 ### 🚀 About Me
-I am **Abdullah Al-Sulami**, an ambitious **Joiner Software Developer**, **Flutter Expert**, and **Freelancer** from **Yemen 🇾🇪**.
+I am SulamiDev and My name is **Abdullah Fahd Al-Sulami**, an ambitious **Joiner Software Developer**, **Flutter Expert**,**Wep Devloper**, and **Freelancer** from **Yemen 🇾🇪**.
 
 - 🌍 **Freelancer**: Open to global collaborations.
-- 📱 **Flutter**: Specializing in mobile/web applications.
+- 📱 **Flutter and Web**: Specializing in mobile/web applications.
 - 💻 **Portfolio**: [abdullah-fahd-othman.netlify.app](https://abdullah-fahd-othman.netlify.app/)
 
 ---
