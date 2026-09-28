@@ -58,6 +58,7 @@ I am SulamiDev and My name is **Abdullah Fahd Al-Sulami**, an ambitious **Joiner
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+1. 🚀 Published release [File Organizer](https://github.com/SulamiDev/File-Organizer/releases/tag/v1.0.0) in [SulamiDev/File-Organizer](https://github.com/SulamiDev/File-Organizer)
 <!--END_SECTION:activity-->
 
 ---
